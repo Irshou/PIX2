@@ -64,9 +64,11 @@ Cette solution comprend un ordinateur portable, avec un scanner de très petite 
 
 4.2. Liste des éléments à acheter pour le fabriquer 
 
+Mini caméra / Webcam
 
+Un scanner de petite taille
 
-
+Une barre numérique à fixer au tableau du professeur
  
 
 5. Programmation 
