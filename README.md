@@ -5,7 +5,7 @@ Tableau noir à retranscription informatique
 
 1. Croquis 
 
-![alt tag](http://www.hostingpics.net/thumbs/38/61/84/mini_386184materiel.png)
+![alt tag](http://www.hostingpics.net/thumbs/83/65/02/mini_836502materiel.png)
 
 
 
@@ -45,7 +45,7 @@ Cette solution comprend un ordinateur portable, avec un scanner de très petite 
 3.1. Cas d'utilisation 
 
 
-![alttag](http://www.hostingpics.net/thumbs/93/07/10/mini_930710diagrammeutilisationirshad.jpg)
+![alttag](http://www.hostingpics.net/thumbs/22/28/92/mini_222892diagrammeutilisationirshad.jpg)
  
 
 3.2. Diagramme états-transitions 
@@ -59,7 +59,7 @@ Cette solution comprend un ordinateur portable, avec un scanner de très petite 
 4.1. Schéma Gadgeteer et électronique de l'objet 
 
 
-![alttag](http://www.hostingpics.net/thumbs/80/91/73/mini_809173schmagadgeteer.jpg)
+![alttag](http://www.hostingpics.net/thumbs/74/45/36/mini_744536schmagadgeteer.jpg)
  
 
 4.2. Liste des éléments à acheter pour le fabriquer 
